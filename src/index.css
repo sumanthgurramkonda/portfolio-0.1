@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow : hidden;
+  background-color: #FBF8CC;
+  font-family: "Bitcount Prop Single Ink", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+#root{
+}  
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
